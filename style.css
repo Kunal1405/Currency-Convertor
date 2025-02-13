@@ -1,0 +1,72 @@
+*{
+    margin:0;
+    padding: 0;
+}
+body{
+    display:flex;
+    justify-content: center;
+    align-items: center;
+    height: 100vh;
+    background-color: #f1f1f1;
+    /* background-color: #0096FF; */
+    font-family: Arial, sans-serif;
+}
+.container{
+    width: 400px;
+    padding: 20px;
+    background-color: #fff;
+    border-radius: 40px;
+    box-shadow: 0 0 10px rgba(0,0,0,0.1);
+}
+.dropdown{
+    margin-top: 5vh;
+    align-items: center;
+    justify-content: space-between;
+    display: flex;
+    width: 100%;
+    margin-bottom: 20px;
+}
+form{
+    margin: 2rem 0 1rem 0;
+}
+form select,button,input{
+    width: 100%;
+    border:none;
+    border-radius: 5px;
+    outline: none;
+}
+form input{
+    margin-top: 2px;
+    border: 1px solid #ccc;
+    font-size:large;
+    height: 3 rem;
+    padding-left: 1rem;
+}
+.select-Container img{
+    max-width: 3rem;
+}
+.select-Container{
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+    width: 100%;
+    border: 1px solid #ccc;
+    border-radius: 5px;
+    padding: 0.5rem;
+    margin-top: 5px;
+}
+.select-Container select{
+    font-size: medium;
+}
+.msg{
+    margin: 1rem 0 1rem 0;
+}
+form button{
+    background-color: #0096FF;
+    color: #fff;
+    font-size: large;
+    padding: 0.5rem;
+    cursor: pointer;
+    border-radius: 1rem;
+    cursor: pointer;
+}
