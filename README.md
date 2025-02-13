@@ -1,21 +1,30 @@
-💱 Currency Converter
-A simple currency converter built with HTML, CSS, and JavaScript, fetching real-time exchange rates via an API.
+# 💱 Currency Converter
 
-🚀 Features
-Converts currencies using live exchange rates
-Simple and user-friendly interface
-Lightweight and fast
-🛠 Tech Stack
-Frontend: HTML, CSS, JavaScript
-API: Fetching real-time exchange rates
-📌 How to Use
-Open index.html in a browser.
-Enter the amount and select currencies.
-Click "Convert" to get the exchange rate.
-📂 Setup
-Clone the repository:
-bash
-Copy
-Edit
-git clone https://github.com/yourusername/CurrencyConverter.git
-Open index.html in a browser.
+A simple and lightweight currency converter using **HTML, CSS, and JavaScript**, fetching real-time exchange rates via an API.  
+
+---
+
+## 🚀 Features  
+✅ Live exchange rate conversion  
+✅ Simple and responsive UI  
+✅ Fast and lightweight  
+
+---
+
+## 🛠 Tech Stack  
+🔹 **Frontend:** HTML, CSS, JavaScript  
+🔹 **API:** Fetching real-time exchange rates  
+
+---
+
+## 📌 How to Use  
+1️⃣ Open `index.html` in your browser.  
+2️⃣ Enter the amount and select currencies.  
+3️⃣ Click **"Convert"** to get the exchange rate.  
+
+---
+
+## 📂 Setup  
+1️⃣ Clone the repository:  
+   ```bash
+   git clone https://github.com/yourusername/CurrencyConverter.git
